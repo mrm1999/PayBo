@@ -64,3 +64,6 @@ $ flutter run
 This will start the app in debug mode on connecte device.
 
 Made with ❤️
+By:- Mohit Raj Munot
+     Ayush Agarwal
+     Harsh Chaurasia
